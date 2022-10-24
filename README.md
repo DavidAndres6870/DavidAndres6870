@@ -1,4 +1,4 @@
-#👋 Hi, I'm David 
+# 👋 Hi, I'm David 
 ### About me:
 I am a mechatronic engineer with experience in machine learning and deep learning.  
 I decided to change my professional career to analytics business, so choosed to two post-graduation certificates at Mohawk College the first was in International business management where I learned the foundations of the corporative environment. The second certificate is focused on data analytics where I'm learning about different technology tools to reach data-driven decisions in different industries. 
