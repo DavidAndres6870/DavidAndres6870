@@ -1,15 +1,16 @@
-## 👋 Hi, I'm David 
-I am a mechatronical engineer specialized in data analitics throught 
-- 👀 I’m interested in continuous learning about how the data analytics and the technology can be used to solve and help the people needs 
-- 🌱 I’m currently learning power bi, and pipelines betwen the diferent databases, python, sql and visualization tools
+#👋 Hi, I'm David 
+### About me:
+I am a mechatronic engineer with experience in machine learning and deep learning.  
+I decided to change my professional career to analytics business, so choosed to two post-graduation certificates at Mohawk College the first was in International business management where I learned the foundations of the corporative environment. The second certificate is focused on data analytics where I'm learning about different technology tools to reach data-driven decisions in different industries. 
+Additionally, I enjoy new things related to industry tech and various topics such as web development. 
+
+
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Blanco-purple?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-blanco-aponte/)
 
-[![Resume](https://img.shields.io/badge/Download_my_Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010)]
-[DavidBlancoCV.pdf](https://github.com/DavidAndres6870/DavidAndres6870/files/9849103/DavidBlancoCV.pdf)
+[![Resume](https://img.shields.io/badge/Download_my_Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010)]([DavidBlancoCV.pdf](https://github.com/DavidAndres6870/DavidAndres6870/files/9849103/DavidBlancoCV.pdf))
 
-## Skills
-###
+### Skills :computer: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -37,12 +38,12 @@ I am a mechatronical engineer specialized in data analitics throught
 
 
 
-## Learning
+### Learning 🌱
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-# Want to learn
+### Want to learn
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
