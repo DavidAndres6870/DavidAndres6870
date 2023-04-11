@@ -8,8 +8,6 @@ Additionally, I enjoy new things related to industry tech and various topics suc
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Blanco-purple?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-blanco-aponte/)
 
-[![Resume](https://img.shields.io/badge/Download_my_Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010)]([DavidBlancoCV.pdf](https://github.com/DavidAndres6870/DavidAndres6870/files/9849103/DavidBlancoCV.pdf))
-
 ### Skills :computer: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
