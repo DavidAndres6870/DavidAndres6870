@@ -8,10 +8,6 @@ Additionally, I enjoy new things related to industry tech and various topics suc
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Blanco-purple?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-blanco-aponte/)
 
-[![Resume](https://img.shields.io/badge/Read_my_Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010)](https://github.com/DavidAndres6870/DavidAndres6870/blob/main/DAVID%20BLANCO-Resume.pdf)
-
-[![Letter](https://img.shields.io/badge/Read_my_Cover_Letter-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010)](https://github.com/DavidAndres6870/DavidAndres6870/blob/main/DAVID%20BLANCO%20-%20Cover%20Letter.pdf)
-
 ### Skills :computer: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -34,10 +30,7 @@ Additionally, I enjoy new things related to industry tech and various topics suc
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 
 ### Learning 🌱
