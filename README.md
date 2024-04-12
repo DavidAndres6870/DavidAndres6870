@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David 
 ### About me:
-Experienced data analyts proficient in data manipulation and development, specializing in statistical analysis and decision-making. Skilled in utilizing various technological tools to transform business requirements into technical analytical specifications and automate processes. Holds a bachelor’s degree in Mechatronics, complemented by completion of Mohawk College’s postgraduate certificates in Analytics for Business Decision Making and in International Business Management.  
+Experienced data analyst proficient in data manipulation and development, specializing in statistical analysis and decision-making. Skilled in utilizing various technological tools to transform business requirements into technical analytical specifications and automate processes. Holds a bachelor’s degree in Mechatronics, complemented by completion of Mohawk College’s postgraduate certificates in Analytics for Business Decision Making and in International Business Management.  
 
 
 ### 📫 How to reach me:
