@@ -1,8 +1,6 @@
 # 👋 Hi, I'm David 
 ### About me:
-I am a mechatronic engineer with experience in machine learning and deep learning.  
-I decided to change my professional career to analytics business, so choosed to two post-graduation certificates at Mohawk College the first was in International business management where I learned the foundations of the corporative environment. The second certificate is focused on data analytics where I'm learning about different technology tools to reach data-driven decisions in different industries. 
-Additionally, I enjoy new things related to industry tech and various topics such as web development. 
+Experienced data data analyts proficient in data development environments, specializing in statistical analysis and decision-making. Skilled in utilizing various technological tools to transform business requirements into technical analytical specifications and automate processes. Holds a bachelor’s degree in Mechatronics, complemented by completion of Mohawk College’s postgraduate certificates in Analytics for Business Decision Making and in International Business Management.  
 
 
 ### 📫 How to reach me:
