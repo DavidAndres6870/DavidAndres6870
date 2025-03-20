@@ -4,6 +4,8 @@ Experienced data analyst proficient in data manipulation and development, specia
 
 ### My website
 [Portfolio](https://davidblanco.netlify.app/){:target="_blank" rel="noopener"}
+Here's a link to [Google](https://google.com){target="_blank"}
+
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Blanco-purple?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-blanco-aponte/)
 
