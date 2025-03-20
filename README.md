@@ -3,8 +3,8 @@
 Experienced data analyst proficient in data manipulation and development, specializing in statistical analysis and decision-making. Skilled in utilizing various technological tools to transform business requirements into technical analytical specifications and automate processes. Holds a bachelor’s degree in Mechatronics, complemented by completion of Mohawk College’s postgraduate certificates in Analytics for Business Decision Making and in International Business Management.  
 
 ### My website
-[Portfolio](https://davidblanco.netlify.app/){:target="_blank" rel="noopener"}
-Here's a link to [Google](https://google.com){target="_blank"}
+[Portfolio](https://davidblanco.netlify.app/)
+
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Blanco-purple?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-blanco-aponte/)
