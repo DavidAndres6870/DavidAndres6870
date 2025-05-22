@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David 
 ### About me:
-Experienced data analyst proficient in data manipulation and development, specializing in statistical analysis and decision-making. Skilled in utilizing various technological tools to transform business requirements into technical analytical specifications and automate processes. Holds a bachelor’s degree in Mechatronics, complemented by completion of Mohawk College’s postgraduate certificates in Analytics for Business Decision Making and in International Business Management.  
+Data analyst with 3+ years of experience, proficient in data manipulation and development, specializing in statistical analysis and decision-making. Skilled in utilizing various technological tools to transform business requirements into technical analytical specifications and automate processes. Holds a bachelor’s degree in Mechatronics, complemented by completion of Mohawk College’s postgraduate certificates in Analytics for Business Decision Making and in International Business Management.  
 
 ### My website
 [Portfolio](https://davidblanco.netlify.app/)
